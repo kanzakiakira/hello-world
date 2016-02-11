@@ -1,6 +1,10 @@
 package test;
 
+
+
 public class main {
+	private String stringLangth="ªø";
+	
 	main(){
 		System.out.println("test");
 		
